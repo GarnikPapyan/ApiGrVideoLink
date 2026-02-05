@@ -1,0 +1,64 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "QA vs DEV",
+      "format": "mp4",
+      "url": "https://cl-data.tech-suite.com/VID_20251017_000417_529_05_02_2026_11_28_52_335.mp4"
+    },
+    {
+      "id": 2,
+      "title": "Kargin-Ratati",
+      "format": "mov",
+      "url": "https://cl-data.tech-suite.com/VID_20250608_164749_546.mp4_05_02_2026_11_30_22_881.mov"
+    },
+    {
+      "id": 3,
+      "title": "Kargin-Kanalizacia",
+      "format": "mov",
+      "url": "https://cl-data.tech-suite.com/VID_20251226_102435_061.mp4_05_02_2026_11_31_49_322.mov"
+    },
+     {
+      "id": 4,
+      "title": "Kargin-Srika",
+      "format": "mov",
+      "url": "https://cl-data.tech-suite.com/VID_20251011_231719_118.mp4_05_02_2026_11_33_14_037.mov"
+    },
+    {
+      "id": 5,
+      "title": "Kargin-Kluch tvox",
+      "format": "mov",
+      "url": "https://cl-data.tech-suite.com/VID_20251226_102541_570.mp4_05_02_2026_11_34_15_015.mov"
+    },
+    {
+      "id": 6,
+      "title": "Kargin-Fanarik",
+      "format": "mov",
+      "url": "https://cl-data.tech-suite.com/VID_20250901_235554_839.mp4_05_02_2026_11_35_14_272.mov"
+    },
+    {
+      "id": 7,
+      "title": "Kargin-Sireli morqur",
+      "format": "mov",
+      "url": "https://cl-data.tech-suite.com/VID_20260115_141812_552.mp4_05_02_2026_11_36_09_403.mov"
+    },
+    {
+      "id": 8,
+      "title": "Flower WebM",
+      "format": "webm",
+      "url": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.webm"
+    },
+    {
+      "id": 9,
+      "title": "Minami How Add",
+      "format": "MOV",
+      "url": "https://cl-data.tech-suite.com/2_5420330881686476149_03_02_2026_12_51_03_334.MOV"
+    },
+    {
+      "id": 10,
+      "title": "Mobile Video",
+      "format": "mp4",
+      "url": "https://cl-data.tech-suite.com/2e206753-1bc7-491e-b36e-780e497617f4_30_01_2026_06_59_34_198.mp4"
+    }
+  ]
+}
